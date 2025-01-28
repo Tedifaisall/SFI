@@ -121,7 +121,7 @@ def main():
 │             IG:TEDI_FAISAL                         │
 │                                                    │
 └────────────────────────────────────────────────────┘
-    """)
+
 
     invite_code = input("Masukkan kode referral: ")
     iterations = int(input("Mau berapa Refferal: "))
