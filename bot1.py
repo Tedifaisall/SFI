@@ -104,7 +104,7 @@ def generate_wallet_eth():
 def main():
     print("""
     ==========================================================
-     LayerEdge Auto Referral Bot v0.1 - by @AirdropFamilyIDN
+     LayerEdge Auto Referral Bot v0.1 - by TediFaisal
     ==========================================================
     """)
 
