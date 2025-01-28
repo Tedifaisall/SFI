@@ -103,15 +103,10 @@ def generate_wallet_eth():
 
 def main():
     print("""
-   
-
-             """"          """""""
-┌────────────────────────────────────────────────────┐
-│             BY : TEDI FAISAL                       │
-│             IG:TEDI_FAISAL                         │
-│                                                    │
-└────────────────────────────────────────────────────┘
-
+    ==========================================================
+     LayerEdge Auto Referral Bot v0.1 - by TEDI FAISAL
+    ==========================================================
+    """)
 
     invite_code = input("Masukkan kode referral: ")
     iterations = int(input("Mau berapa Refferal: "))
